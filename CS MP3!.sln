@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS MP3!", "CS MP3!.csproj", "{5506EF6A-BA13-42EC-B6F0-C0EA52D36A0B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CSMP3Install", "CSMP3Install\CSMP3Install.vdproj", "{5BCCCAAA-F70F-4797-A4D3-023115A07B23}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{5506EF6A-BA13-42EC-B6F0-C0EA52D36A0B}.Debug.ActiveCfg = Debug|.NET
+		{5506EF6A-BA13-42EC-B6F0-C0EA52D36A0B}.Debug.Build.0 = Debug|.NET
+		{5506EF6A-BA13-42EC-B6F0-C0EA52D36A0B}.Release.ActiveCfg = Release|.NET
+		{5506EF6A-BA13-42EC-B6F0-C0EA52D36A0B}.Release.Build.0 = Release|.NET
+		{5BCCCAAA-F70F-4797-A4D3-023115A07B23}.Debug.ActiveCfg = Debug
+		{5BCCCAAA-F70F-4797-A4D3-023115A07B23}.Release.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
